@@ -2,7 +2,7 @@
     "name": "jest-snippets-standard",
     "displayName": "Jest Snippets Standard Style",
     "description": "Standard style code snippets for testing framework Jest, based on andys8 jest-snippets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "shtian",
     "icon": "images/jestsnippets.png",
     "license": "MIT",
