@@ -1,7 +1,7 @@
-# vscode-jest-snippets
-[![Version](https://vsmarketplacebadge.apphb.com/version/andys8.jest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
+# vscode-jest-snippets-standard
+[![Version](https://vsmarketplacebadge.apphb.com/version/shtian.jest-snippets-standard.svg)](https://marketplace.visualstudio.com/items?itemName=shtian.jest-snippets-standard)
 
-[Jest](https://facebook.github.io/jest) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
+[Standard style](https://standardjs.com/) [Jest](https://facebook.github.io/jest) snippets extension for [Visual Studio Code](https://code.visualstudio.com/), forked and edited from andys8/vscode-jest-snippets.
 
 ## Snippets
 
