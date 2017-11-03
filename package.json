@@ -1,14 +1,14 @@
 {
-    "name": "jest-snippets",
-    "displayName": "Jest Snippets",
-    "description": "Code snippets for testing framework Jest",
-    "version": "1.0.4",
-    "publisher": "andys8",
-    "icon": "images/jest_snippets_icon.png",
+    "name": "jest-snippets-standard",
+    "displayName": "Jest Snippets Standard Style",
+    "description": "Standard style dode snippets for testing framework Jest, based on andys8 jest-snippets",
+    "version": "1.0.0",
+    "publisher": "shtian",
+    "icon": "images/jest_snippets_standard_icon.png",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/andys8/vscode-jest-snippets"
+        "url": "https://github.com/Shtian/vscode-jest-snippets-standard"
     },
     "engines": {
         "vscode": "^1.11.0"
