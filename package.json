@@ -4,7 +4,7 @@
     "description": "Standard style dode snippets for testing framework Jest, based on andys8 jest-snippets",
     "version": "1.0.0",
     "publisher": "shtian",
-    "icon": "images/jest_snippets_standard_icon.png",
+    "icon": "images/jestsnippets.png",
     "license": "MIT",
     "repository": {
         "type": "git",
