@@ -3,7 +3,7 @@
     "displayName": "Jest Snippets Standard Style",
     "description": "Standard style dode snippets for testing framework Jest, based on andys8 jest-snippets",
     "version": "1.0.0",
-    "publisher": "hagastian",
+    "publisher": "shtian",
     "icon": "images/jestsnippets.png",
     "license": "MIT",
     "repository": {
